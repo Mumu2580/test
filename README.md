@@ -1,3 +1,1 @@
-print(hello)
-
-w d aw
+这是一个测试文件1111
